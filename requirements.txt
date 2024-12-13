@@ -1,0 +1,10 @@
+numpy
+opencv-python
+mediapipe
+scipy
+matplotlib
+scikit-learn
+pandas
+loguru
+pytest
+coverage
