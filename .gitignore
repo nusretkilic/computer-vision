@@ -1,0 +1,50 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Log and temporary files
+*.log
+*.tmp
+
+# IDE and project files
+.vscode/
+.idea/
+
+# IntelliJ specific files
+*.iml
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# JetBrains project settings
+*.iws
+
+# Other IDE and build files
+*.swp  # vim swap files
+*.swo  # vim swap files
+
+# Large file types (Images, Videos)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Avoid other large binary files
+*.zip
+*.tar.gz
+*.rar
+*.tar
+*.7z
