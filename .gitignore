@@ -48,3 +48,8 @@ Thumbs.db
 *.rar
 *.tar
 *.7z
+
+
+build/
+dist/
+*.egg-info
