@@ -1,0 +1,1 @@
+This directory is for storing inputs such as videos and images, as well as their corresponding results.
