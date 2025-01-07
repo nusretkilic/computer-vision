@@ -61,7 +61,7 @@ The purpose of this project is to measure heart rate using a small-scale camera 
 
 4. **GPU**: Set GPU to false as it is not yet supported.
 
-5. **Apply the Parameters**: Once the settings are configured, click "Start" to begin the heart rate monitoring.
+5. **Apply the Parameters**: Once the settings are configured, click "Apply Parameters" and 'Start' to begin the heart rate monitoring.
 
 The program will begin processing the input feed and display the heart rate.
 
